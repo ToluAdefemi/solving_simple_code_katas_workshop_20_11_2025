@@ -12,3 +12,6 @@ def count_characters(text, character):
     pass
 
 print(count_characters("Its a fantastic day", "a"))
+
+# Tasks 
+# - 
